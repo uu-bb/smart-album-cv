@@ -15,7 +15,7 @@
 
 ## 架构
 
-![智能相册架构](docs/images/03_architecture.png)
+![智能相册架构](docs/images/03_architecture.svg)
 
 ```mermaid
 flowchart TD
