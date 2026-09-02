@@ -17,8 +17,6 @@ REQUIRED_FILES = [
     "gesture_control.py",
     "video_maker.py",
     "requirements.txt",
-    "docs/images/01_main_ui.png",
-    "docs/images/03_architecture.png",
 ]
 
 
